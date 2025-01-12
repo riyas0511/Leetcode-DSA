@@ -17,12 +17,18 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/riyas0511/Leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/riyas0511/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/riyas0511/Leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/riyas0511/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/riyas0511/Leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/riyas0511/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
