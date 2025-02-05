@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [1502-construct-k-palindrome-strings](https://github.com/riyas0511/Leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/riyas0511/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/riyas0511/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
