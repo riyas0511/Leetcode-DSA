@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/riyas0511/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/riyas0511/Leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/riyas0511/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/riyas0511/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
