@@ -6,7 +6,7 @@ public:
         int days= 1;
         for(int i = 0; i< n; i++){
             if(sum + weights[i] > min){
-                days += 1;  //move to the next day
+                days += 1;           //move to the next day
                 sum = weights[i];       //load the weight
             }else{
             sum += weights[i];
