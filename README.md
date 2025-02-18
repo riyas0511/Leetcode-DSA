@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/riyas0511/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0907-koko-eating-bananas](https://github.com/riyas0511/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/riyas0511/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
