@@ -5,9 +5,8 @@ public:
       long long totalhrs(const vector<int>& arr, int hourly) {
        long long totalM = 0;  // Use long long to prevent overflow
         for (int i = 0; i < arr.size(); i++) {
-          int hourstoeat =  ceil( arr[i] / (double)hourly);
-          totalM += hourstoeat;
-
+         totalM +=   ceil( arr[i] / (double)hourly);
+          
       }
        return totalM;
     }
