@@ -18,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1502-construct-k-palindrome-strings](https://github.com/riyas0511/Leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 ## String
 |  |
@@ -56,6 +57,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/riyas0511/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/riyas0511/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/riyas0511/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/riyas0511/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -67,6 +69,7 @@
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -75,5 +78,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
