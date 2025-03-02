@@ -85,6 +85,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -102,6 +103,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Divide and Conquer
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
