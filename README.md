@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/riyas0511/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/riyas0511/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/riyas0511/Leetcode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/riyas0511/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
