@@ -71,6 +71,7 @@
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/riyas0511/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/riyas0511/Leetcode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/riyas0511/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
