@@ -13,6 +13,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/riyas0511/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/riyas0511/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/riyas0511/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -57,6 +58,7 @@
 | [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/riyas0511/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0136-single-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/riyas0511/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/riyas0511/Leetcode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -142,6 +145,7 @@
 | ------- |
 | [0136-single-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
