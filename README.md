@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -129,6 +132,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Graph
 |  |
