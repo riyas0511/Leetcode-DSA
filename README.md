@@ -99,6 +99,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -113,6 +114,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -123,6 +125,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -145,6 +148,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
