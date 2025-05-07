@@ -51,6 +51,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/riyas0511/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/riyas0511/Leetcode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/riyas0511/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/riyas0511/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/riyas0511/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/riyas0511/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -104,6 +106,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
@@ -130,6 +133,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -152,6 +156,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,4 +167,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
