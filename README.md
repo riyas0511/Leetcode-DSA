@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/riyas0511/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/riyas0511/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/riyas0511/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -181,6 +183,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/riyas0511/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
