@@ -62,6 +62,7 @@
 | [0075-sort-colors](https://github.com/riyas0511/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/riyas0511/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/riyas0511/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@
 | [0136-single-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/riyas0511/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/riyas0511/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
