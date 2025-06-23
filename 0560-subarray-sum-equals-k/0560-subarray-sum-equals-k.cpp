@@ -16,3 +16,4 @@ public:
         return cnt;
     }
 };
+// we can use prefix sum for optimal solution
