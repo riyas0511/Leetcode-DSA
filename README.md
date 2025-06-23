@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/riyas0511/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/riyas0511/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/riyas0511/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/riyas0511/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/riyas0511/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
