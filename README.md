@@ -16,6 +16,7 @@
 | [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/riyas0511/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/riyas0511/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/riyas0511/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/riyas0511/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/riyas0511/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -93,6 +94,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/riyas0511/Leetcode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/riyas0511/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1046-max-consecutive-ones-iii](https://github.com/riyas0511/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/riyas0511/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/riyas0511/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -106,6 +108,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/riyas0511/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/riyas0511/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
@@ -210,4 +213,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyas0511/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/riyas0511/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
