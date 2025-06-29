@@ -98,6 +98,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/riyas0511/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/riyas0511/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/riyas0511/Leetcode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/riyas0511/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
@@ -109,6 +110,7 @@
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/riyas0511/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/riyas0511/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/riyas0511/Leetcode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
@@ -214,4 +216,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyas0511/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/riyas0511/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/riyas0511/Leetcode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
