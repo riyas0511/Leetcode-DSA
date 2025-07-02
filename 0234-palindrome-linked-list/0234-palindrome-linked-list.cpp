@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+ //BRute approach
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
