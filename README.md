@@ -32,6 +32,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/riyas0511/Leetcode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1502-construct-k-palindrome-strings](https://github.com/riyas0511/Leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/riyas0511/Leetcode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/riyas0511/Leetcode-DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/riyas0511/Leetcode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Prefix Sum
 |  |
@@ -224,6 +226,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyas0511/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/riyas0511/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/riyas0511/Leetcode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/riyas0511/Leetcode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
