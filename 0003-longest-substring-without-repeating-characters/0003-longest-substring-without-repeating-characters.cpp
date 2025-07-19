@@ -7,14 +7,16 @@ public:
         int maxlen = INT_MIN;
         if(s.empty()){
             return 0;
-            
         }
         while(r < s.size()){
             
-            while (freq[s[r]] > 0) {
-            freq[s[l]]--;
-            l++;
-        }
+            while(freq.find(s[r]) != freq.end()){
+                freq[s[l]]--;
+                if(freq[s[l]]==0){
+                    freq.erase(s[l]);
+                }
+                l++;
+            }
             freq[s[r]]++;
             maxlen = max(maxlen , r - l + 1);
             r++;
