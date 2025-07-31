@@ -93,6 +93,7 @@
 | [0075-sort-colors](https://github.com/riyas0511/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/riyas0511/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/riyas0511/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -149,6 +150,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/riyas0511/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/riyas0511/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -249,5 +252,10 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/riyas0511/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
