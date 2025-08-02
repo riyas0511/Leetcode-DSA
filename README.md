@@ -83,6 +83,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/riyas0511/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/riyas0511/Leetcode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/riyas0511/Leetcode-DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -99,6 +100,7 @@
 | [0287-find-the-duplicate-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/riyas0511/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/riyas0511/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/riyas0511/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/riyas0511/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/riyas0511/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/riyas0511/Leetcode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/riyas0511/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/riyas0511/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/riyas0511/Leetcode-DSA/tree/master/0733-flood-fill) |
@@ -261,5 +264,6 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/riyas0511/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/riyas0511/Leetcode-DSA/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
