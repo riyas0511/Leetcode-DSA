@@ -110,6 +110,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/riyas0511/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/riyas0511/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/riyas0511/Leetcode-DSA/tree/master/1073-number-of-enclaves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/riyas0511/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/riyas0511/Leetcode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/riyas0511/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -160,6 +161,7 @@
 | [0547-number-of-provinces](https://github.com/riyas0511/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/riyas0511/Leetcode-DSA/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/riyas0511/Leetcode-DSA/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -194,6 +196,7 @@
 | [0547-number-of-provinces](https://github.com/riyas0511/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/riyas0511/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/riyas0511/Leetcode-DSA/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/riyas0511/Leetcode-DSA/tree/master/1073-number-of-enclaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Graph
 |  |
@@ -264,6 +267,7 @@
 | [0130-surrounded-regions](https://github.com/riyas0511/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/riyas0511/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/riyas0511/Leetcode-DSA/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -271,4 +275,5 @@
 | [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/riyas0511/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/riyas0511/Leetcode-DSA/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/riyas0511/Leetcode-DSA/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
