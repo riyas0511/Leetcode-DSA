@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyas0511/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/riyas0511/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/riyas0511/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/riyas0511/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/riyas0511/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyas0511/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/riyas0511/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0127-word-ladder](https://github.com/riyas0511/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/riyas0511/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/riyas0511/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1502-construct-k-palindrome-strings](https://github.com/riyas0511/Leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyas0511/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/riyas0511/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/riyas0511/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/riyas0511/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/riyas0511/Leetcode-DSA/tree/master/0542-01-matrix) |
